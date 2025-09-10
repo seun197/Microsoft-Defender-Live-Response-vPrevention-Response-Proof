@@ -1,4 +1,4 @@
-# Microsoft Defender for Endpoint — Live Response Lab  
+# Microsoft Defender for Endpoint : Live Response Lab  
 
 ## Overview  
 This lab validates Microsoft Defender for Endpoint’s ability to deliver **preventive controls** (ASR/AV) and enable **analyst-led incident response** via Live Response.  

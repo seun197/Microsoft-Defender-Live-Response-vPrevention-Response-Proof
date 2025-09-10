@@ -16,7 +16,7 @@ A controlled Windows 11 endpoint was used to simulate malicious behaviour, execu
 
 ---
 
-## 🛠Lab Environment  
+## Lab Environment  
 - **OS**: Windows 11 Pro (lab VM).  
 - **Security Controls**: Microsoft Defender for Endpoint (onboarded, ASR rules enabled).  
 - **Management**: Microsoft 365 Defender portal ([https://security.microsoft.com](https://security.microsoft.com)).  
